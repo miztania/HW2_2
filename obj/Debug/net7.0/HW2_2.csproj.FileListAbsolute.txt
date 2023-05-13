@@ -1,0 +1,15 @@
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\HW2_2\obj\Debug\net7.0\HW2_2.csproj.AssemblyReference.cache
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\HW2_2\obj\Debug\net7.0\HW2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\HW2_2\obj\Debug\net7.0\HW2_2.AssemblyInfoInputs.cache
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\HW2_2\obj\Debug\net7.0\HW2_2.AssemblyInfo.cs
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\HW2_2\obj\Debug\net7.0\HW2_2.csproj.CoreCompileInputs.cache
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\HW2_2\bin\Debug\net7.0\HW2_2.exe
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\HW2_2\bin\Debug\net7.0\HW2_2.deps.json
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\HW2_2\bin\Debug\net7.0\HW2_2.runtimeconfig.json
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\HW2_2\bin\Debug\net7.0\HW2_2.dll
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\HW2_2\bin\Debug\net7.0\HW2_2.pdb
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\HW2_2\obj\Debug\net7.0\HW2_2.dll
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\HW2_2\obj\Debug\net7.0\refint\HW2_2.dll
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\HW2_2\obj\Debug\net7.0\HW2_2.pdb
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\HW2_2\obj\Debug\net7.0\HW2_2.genruntimeconfig.cache
+C:\Users\nitro 5\Desktop\study\kmutt\1stYear\Semester2\MDT112\MidtermExam\HW2_2\obj\Debug\net7.0\ref\HW2_2.dll
